@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324691481952",
+    "firebase_url": "https://amigo-support-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "amigo-support",
+    "storage_bucket": "amigo-support.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324691481952:android:9e44fcff301291ec957a05",
+        "android_client_info": {
+          "package_name": "com.example.amigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324691481952-rd1lho43m51l16ik1217nd511qurn6b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfylVBj7BPBqOcrK9FRvjy5hDCA3Sbho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324691481952-rd1lho43m51l16ik1217nd511qurn6b4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324691481952-33k5uo6m9203jjh3nn1hqk4b6clc6ps7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amigoSupport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
